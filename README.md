@@ -1,4 +1,4 @@
-# SharedMemory_Group1
+# Shared-Memory_Group1
 Shared Memory in CUDA using Dot Product
 
 Group 1: 
