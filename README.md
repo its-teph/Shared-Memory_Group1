@@ -1,5 +1,5 @@
 # SharedMemory_Group1
-Shared Memory in CUDA
+Shared Memory in CUDA using Dot Product
 
 Group 1: 
   Cai, Edison & Susada, Stephanie Joy
